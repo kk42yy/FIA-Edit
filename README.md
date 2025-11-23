@@ -1,7 +1,13 @@
 # FIA-Edit
 
-[AAAI 2026] FIA-Edit: Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing
+<p align="center">
+  <a href="https://arxiv.org/abs/2511.12151">
+    <img src="https://img.shields.io/badge/arXiv-2511.12151-b31b1b?logo=arxiv">
+  </a>
+</p>
 
+
+[AAAI 2026] FIA-Edit: Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing
 
 ## 🚀 Getting Started
 <span id="getting-started"></span>
